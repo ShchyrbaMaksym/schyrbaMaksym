@@ -1,7 +1,14 @@
-# Hi, I'm [Your Name]! 🎉
+# Hi, I'm Max! 🎉
 
 ## About Me
-I'm a developer who loves to code and engage in [your hobbies]. Always open to new challenges and opportunities.
+I'm Maksym, 26 years old. Since 2017, I have been passionately involved in web development. I have developed websites, e-commerce stores, and mobile applications for various industries.
+
+Frontend development experience — over 4 years:
+- Developed and implemented a request caching system for the API, minimizing the number of client requests and reducing the data loading time on the page.
+- Optimized the rendering process of large volume data lists by implementing virtualization, reducing memory consumption, and enhancing interface performance.
+- Successfully developed and implemented an optimized component rendering algorithm, increasing interface performance by 30%.
+
+Always open to new challenges and opportunities.
 
 ## 🔧 Technologies
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
