@@ -1,19 +1,21 @@
-# Привет, я [Ваше Имя]!
+# Hi, I'm [Your Name]! 🎉
 
-## О себе
-Я разработчик с опытом работы в [ваши ключевые технологии]. Увлекаюсь созданием эффективных и красивых приложений.
+## About Me
+I'm a developer who loves to code and engage in [your hobbies]. Always open to new challenges and opportunities.
 
-## 🔧 Технологии
-- **Frontend**: ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-- **Backend**: ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-- **Database**: ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-- **Other**: ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+## 🔧 Technologies
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![GSAP](https://img.shields.io/badge/-GSAP-black?style=flat-square&logo=greensock)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![Three.js](https://img.shields.io/badge/-Three.js-black?style=flat-square&logo=three.js)
+![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 
-## 📈 Статистика
-![Ваша статистика GitHub](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true)
-![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true)
-
-## 📫 Контакты
-- Email: [youremail@example.com](mailto:youremail@example.com)
-- LinkedIn: [Ваш LinkedIn](https://www.linkedin.com/in/yourlinkedin/)
-- Twitter: [Ваш Twitter](https://twitter.com/yourtwitter)
+## 📫 Contact Me
+- Telegram: [@caest](https://t.me/caest)
+- Email: [shchyrbamax@gmail.com](mailto:shchyrbamax@gmail.com)
